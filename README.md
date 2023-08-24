@@ -25,11 +25,16 @@ Welcome to the Restaurant Recommendation Model repository! This project aims to 
 
 ## Problem Aimed to Solve:
 
-1.Personalized Recommendations: Delivering Tailored Dining Experiences
+1.Personalized Recommendations: Delivering Tailored Dining Experiences  
+
 2.Exploration Made Easy: Effortless Discovery of New Restaurants
+
 3.User-Centric Engagement: Enhancing Satisfaction and Convenience
+
 4.Data-Driven Insights: Empowering Restaurant Owners with Market Knowledge
+
 5.Algorithmic Excellence: Crafting Precise and Relevant Recommendations
+
 6.Interactive Webpage: Seamlessly Navigating Culinary Choices for New Ventures
 
 
