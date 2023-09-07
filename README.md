@@ -85,6 +85,17 @@ Location Prediction using Logistic Regression and Random Forest Classifier : Dev
 - Understanding the different ways to deploy the model.
 
 
+## Future Scope
+
+Real-Time Data Integration: Automating data scraping to collect real-time restaurant information, ensuring that users receive the most up-to-date recommendations.
+
+Mobile App Development: Expanding the project with a mobile app to reach a wider audience and provide real-time, on-the-go restaurant recommendations based on user preferences and location.
+
+User Profiles and Ratings: Implementing user profiles, integrating real-time user reviews and ratings, and offering personalized restaurant suggestions for an enhanced and dynamic user experience.
+
+Promotion and Marketing: Incorporate tools for new restaurant owners to promote their establishments through the platform, including advertising opportunities, special promotions, and partnerships to increase visibility and customer engagement for their businesses.
+
+
 ## Contributions
 
 Contributions to this project are highly encouraged! Should you encounter any issues or have ideas for improvement.
